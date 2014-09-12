@@ -2,6 +2,7 @@
 layout: post
 title:  "Why I'm taking time away from MIT"
 permalink: /taking-time-off-mit
+image: /assets/article_images/ferris_day_off.jpg
 date: 2014-09-09 13:00:00
 ---
 
