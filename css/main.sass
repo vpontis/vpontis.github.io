@@ -235,9 +235,11 @@ body
     top: 0
     left: 0
     right: 0
-    bottom: 0
+    height: 400px
+    max-height: 100%
     overflow: hidden
     .post-image-image
+      background-position: center
       background-size: cover
       position: absolute
       top: 0
@@ -249,7 +251,7 @@ body
       z-index: 1
     .post-meta
       position: absolute
-      bottom: $rs*5
+      top: $rs*5
       left: 30%
       right: 30%
       z-index: 999
