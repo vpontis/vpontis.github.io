@@ -49,7 +49,7 @@ layout: default
 </script>
 
 <main class="content" role="main">
-
+  {% if site.tags.featured > 1 %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
 
     <div class="container featured">
@@ -72,7 +72,7 @@ layout: default
     </div>
 
     <h5 class="index-headline normal"><span>Regular</span></h5>
-
+  {% endif %}
     <div class="cf frame">
       {% for post in paginator.posts %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
