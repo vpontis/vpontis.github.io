@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hi there, I'm Victor Pontis and this is my blog.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I'm an MIT 2015 studying computer science and physics. Right now I am taking the fall semester off of my senior year to work at <a href="//picnichealth.com" target="_blank">PicnicHealth</a>.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I just set this up, so there should be more information here coming soon.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Credit to the design of this site goes to Akash Badshah. Check out his eerily similar blog [here](//akashbad.gihtub.io).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I took this theme from [Mediator by Dirk Fabisch](https://github.com/dirkfabisch/mediator).
