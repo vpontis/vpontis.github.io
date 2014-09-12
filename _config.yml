@@ -4,7 +4,7 @@ highlighter: pygments
 
 # Site settings
 title: "Victor Pontis"
-description: A blog about everything and nothing
+description: A blog about nothing
 
 email: vpontis@gmail.com
 # blog logo
@@ -43,10 +43,3 @@ social:
     share_url:
     share_title:
     share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:

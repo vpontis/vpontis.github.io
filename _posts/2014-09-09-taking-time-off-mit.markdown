@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Taking time off MIT to work at PicnicHealth"
+title:  "Why I'm taking time away from MIT"
+permalink: /taking-time-off-mit
 date: 2014-09-09 13:00:00
 ---
 
