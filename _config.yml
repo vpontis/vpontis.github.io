@@ -6,7 +6,7 @@ highlighter: pygments
 title: "Victor Pontis"
 description: A blog about everything and nothing
 
-email: a-mail@mail.mail
+email: vpontis@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
@@ -30,12 +30,12 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+ - icon:	facebook
+   url:	https://facebook.com/vpontis
+   desc: Connect with me facebook
+   share_url: //www.facebook.com/sharer.php
+   share_title: ?t=
+   share_link: "&amp;u="
 
   - icon:	github
     url:	https://github.com/vpontis

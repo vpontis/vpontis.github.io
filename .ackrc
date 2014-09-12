@@ -1,0 +1,4 @@
+--ignore-dir=_site
+--ignore-dir=assets/js/min
+--ignore-dir=_sass/bourbon
+--ignore-dir=.sass-cache

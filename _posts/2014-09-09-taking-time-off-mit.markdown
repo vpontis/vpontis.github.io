@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taking time off MIT"
+title:  "Taking time off MIT to work at PicnicHealth"
 date: 2014-09-09 13:00:00
 ---
 
