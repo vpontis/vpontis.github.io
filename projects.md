@@ -7,10 +7,14 @@ permalink: /projects/
 ### [PicnicHealth](http://www.picnichealth.com)
 #### ***Keep track of and understand your medical history***
 
+Right now I am working at PicnicHealth as a software engineer.
+
 ---------
 
 ### [GraphDocs](http://www.graphdocs.com)
 #### ***Easily visualize and manage graph data***
+
+When I was at Oxford, I founded GraphDocs with David Furlong and Will Zeng. GraphDocs aims to help people manage graph data.
 
 ---------
 
